@@ -1,5 +1,3 @@
-# project_taiso
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7EACD6&height=150&section=header" />
 
 <a href="https://git.io/typing-svg">
