@@ -8,8 +8,7 @@
 - 렌터카 예약 홈페이지 구현
 - 🚘[타이소(Taiso)](http://itwillbs2.cafe24.com/project_taiso/ReservationMain.rez)🚘바로가기
 - 사용자가 간단하게 예약할 수 있는 렌터카 예약 플랫폼 구현
-### 　
-### 　　　
+ 　　　
 
 ## 🛠 Tech stack
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP/Servlet-6F4159?style=flat-plastic&logo=JSP&logoColor=white"/>    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white"/>   <img src="https://img.shields.io/badge/-API-F575C6?style=flat-plastic&logo=API&logoColor=white"/>   <img src="https://img.shields.io/badge/-AJAX-37D1CB?style=flat-plastic&logo=AJAX&logoColor=white"/>   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/-CSS-F59C54?style=flat-plastic&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/-ApachetTomcat9.0-D22128?style=flat-plastic&logo=Apache&logoColor=white"/>   
@@ -27,49 +26,48 @@
 
 
 
-### 　　　
-### 　　　
+　　
 
 ## 📅 개발 일정
 ### 1. 일정관리 
 ![일정관리](https://user-images.githubusercontent.com/118797686/214765218-b669cdd8-4a71-4585-9124-58cf945ba445.png)
-### 　
+
 ### 2. 개발일정 
 ![개발일정](https://user-images.githubusercontent.com/118797686/214765214-465ac003-eeb0-40bc-bbd0-548cdf75074d.png)
 
-### 　　　
+　　　
 <hr>
 
-### 　　　
+　　　
 
 ## 📊 E-R Diagram
 ![타이소ERD](https://user-images.githubusercontent.com/118797686/214764141-51045b33-f9b7-4435-a788-c0cc37fb06c9.png)
 
-### 　　
+　
 <hr>
 
-### 　　　
+　　　
 
 ## 💻 협업 도구　
 > ### 1. 슬랙/카카오오븐
 ![슬랙,카카오오븐](https://user-images.githubusercontent.com/118797686/214765131-159d896a-a0e1-4647-ad1f-aa9586d6ff0e.png)
-### 　
+ 　
 > ### 2. 깃허브/ERD
 ![깃허브,ERD](https://user-images.githubusercontent.com/118797686/214765144-84bb2465-d502-4c4f-b855-5e84df891500.png)
-### 　
+ 　
 > ### 3. 유스케이스
 ![유스케이스](https://user-images.githubusercontent.com/118797686/214765158-90a619ea-c07b-4333-b29d-99a9ed8ba32c.png)
-### 　
+ 　
 > ### 4. 요구사항정의서 [바로가기](https://docs.google.com/spreadsheets/d/1QtAqQH0A_m7-ze3XhSkfsWuaNlpo1l9SFScPLc-R-X4/edit?pli=1#gid=554889087)
 ![요구사항정의서](https://user-images.githubusercontent.com/118797686/214765172-159d0fd2-7227-4964-9220-876cec2e16d0.png)
-### 　
+ 　
 > ### 5. 구조명세서 [바로가기](https://docs.google.com/spreadsheets/d/1QtAqQH0A_m7-ze3XhSkfsWuaNlpo1l9SFScPLc-R-X4/edit?pli=1#gid=447372283)
 ![구조명세서](https://user-images.githubusercontent.com/118797686/214765187-cc323510-b687-4344-9a76-32103dc16516.png)
 
-### 　　　
+ 　　　
 <hr>
 
-### 　　　　
+ 　　　　
 
 ## 👩‍💻 주요 기능 
 - 회원가입시 인증메일 전송
@@ -79,8 +77,7 @@
 - 결제 완료시 java mail 라이브러리 이용하여 메일 전송 / 카카오톡 메세지 공유 API
 - 예약 리스트 및 상세조회
 
-### 　　
-### 　　
+　
 
 ## 💡 기능 구현
 > ### 회원
@@ -88,18 +85,17 @@
 - [마이페이지] 렌트내역 리스트 및 상세조회 / 나의 게시글 작성 및 조회 / 개인정보수정 / 회원탈퇴
 - [메인페이지] 추천 차량·리뷰정보 출력 / 차량·회원·예약 통계 / 지점안내 / 사이트소개
 
-### 
+ 
 > ### 예약 및 결제 (✅참여)
 - [메인페이지] 예약·반납 일시 및 이용지점 선택
 - [차량선택] 차종·지점에 따른 차량선택 기능 / 하단네비게이션바 예약정보 출력 / 리뷰조회 및 댓글작성 / 차량 상세정보 조회
 - [예약 및 결제 ] 예약 정보 및 사용자 정보 출력 / 결제API 통한 결제구현 / 결제완료시 java mail 라이브러리 이용하여 메일 전송 / 카카오톡 메세지 공유 API
 - [예약 조회 및 취소] 예약리스트 및 상세조회 / 예약 취소시 예약상태 변경 / 24시간 이전 예약취소 불가 제어
 
-### 
+ 
 > ### 관리자
 - [관리자 메인] 예약 현황 조회 / 캘린터이용한 업무일정관리 / 공지사항 관리 / 회원조회 / 블랙리스트 처리
 - [차량 관리] 차량리스트 등록·수정·삭제 / 리뷰리스트 및 상세 
-### 
-### 　　
+ 　　
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7EACD6&height=150&section=footer" />
